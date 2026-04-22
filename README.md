@@ -33,4 +33,4 @@ The executable will be created at:
 
 - `dist/rock-paper-scissors.exe`
 
-You can now run the project.
+You can now run the project or just head over to releases and download and run the .exe file.
