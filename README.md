@@ -1,36 +1,11 @@
 # Rock-Paper-Scissors
 
 A CLI Rock, Paper, Scissors game built using Python.
+So yes its just a very very basic rock paper scissors game which you can play in the terminal.
+(R) for Rock P for Paper and S for Scissors, the opponent is the computer which randomly choses any of the three options tht r there in rock paper scissors and then u either win or lose...
+ITS BASICALLY VERY VERY SIMPLE I JUST WANTED TO REVISE MY PYTHON so built it in my free time.
 
-## Requirements
+## Running my game :)
 
-- Python 3.10+
-
-## Run Locally
-
-1. Create and activate a virtual environment.
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-2. Run the game.
-
-```powershell
-python main.py
-```
-
-## Build Executable (PyInstaller One-File)
-
-Always build with `--onefile` so the output is a single executable *i made this mistake so yeah plz do it.
-
-```powershell
-pyinstaller --clean --onefile --name rock-paper-scissors main.py
-```
-
-The executable will be created at:
-
-- `dist/rock-paper-scissors.exe`
-
-You can now run the project or just head over to releases and download and run the .exe file.
+just head over to releases and download and run the .exe file.
+or manually build it from the source 😭.
